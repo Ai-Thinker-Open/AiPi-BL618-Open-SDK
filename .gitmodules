@@ -2,3 +2,6 @@
 	path = bouffalo_sdk
 	url = https://gitee.com/bouffalolab/bouffalo_sdk.git
 
+[submodule "toolchain_gcc_t-head_windows"]
+	path = toolchain_gcc_t-head_windows
+	url = https://gitee.com/bouffalolab/toolchain_gcc_t-head_windows.git
