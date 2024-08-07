@@ -6,7 +6,7 @@
 更多资料请查看：https://docs.ai-thinker.com/cam-d200
 
 # 克隆项目
-确保拥有git工具，在对应文件夹下Git Bush Here，git clone 下来整个项目（默认的编译工具链已经设置为子模块，之前拉取过其它版本SDK则只需进行到这一步后进行工程移植）
+确保拥有git工具，在对应文件夹下Git Bush Here，git clone 下来整个项目（包括windows工具链和SDK）
 
 # 以下步骤适用于初次搭建环境的朋友
 
