@@ -1,10 +1,10 @@
 #AiPi-CAM-D200
 
 # 前言
-本教程使用于github版本的SDK（gitee版本没有gc2145的驱动）
+本工程包含博流Github开源的整个SDK，默认为windows环境以满足大众需求
 
 # 克隆项目
-确保拥有git工具，在对应文件夹下Git Bush Here，git clone 下来整个项目（SDK和默认的编译工具链已经设置为子模块，之前拉取过其它版本SDK则只需进行到这一步后进行工程移植）
+确保拥有git工具，在对应文件夹下Git Bush Here，git clone 下来整个项目（默认的编译工具链已经设置为子模块，之前拉取过其它版本SDK则只需进行到这一步后进行工程移植）
 
 # 以下步骤适用于初次搭建环境的朋友
 ## 进入工程
@@ -15,7 +15,7 @@ git submodule init
 
 ## 拉取子模块
 git submodule update
-拉取子模块需要一定时间，根据网速决定（可借助魔法）
+该子模块为windows的riscv编译工具链，链接为gitee
 
 # 设置环境变量（以win11为例）
 ## 系统——>高级系统设置
